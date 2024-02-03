@@ -1,0 +1,46 @@
+* {
+    background-color: antiquewhite;
+}
+
+/* Headings */
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+/* Table */
+
+table {
+    border: 1px solid;
+    margin: auto;
+    width: 90%;
+    border-spacing: 2px;
+}
+
+thead, th {
+    border: 1px solid;
+    border-spacing: 2px;
+    text-align: center;
+    background-color: mediumslateblue;
+    color: white;
+}
+
+tbody, td {
+    border-top: 1px solid;
+    border-spacing: 2px;
+    text-align: center;
+    text-align: left;
+}
+
+.code {
+    font-family: monospace;
+    background-color: aquamarine;
+}
